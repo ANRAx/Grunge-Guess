@@ -1,5 +1,7 @@
 // object to hold objects of bands to pick 
 
+// TODO: ADD SONG PREVIEWS
+
 let wordGuessGame = {
     wordsToPick: {
         nirvana: {
