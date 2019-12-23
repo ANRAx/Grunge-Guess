@@ -7,61 +7,51 @@ let wordGuessGame = {
         nirvana: {
             picture: "#",
             song: "Lithium", 
-            preview "",
         },
 
         soundgarden: {
             picture: "#",
             song: "On Crooked Steps",
-            preview "",
         },
 
         pearljam: {
             picture: "#",
             song: "Spin the Black Circle",
-            preview "",
         },
 
         mudhoney: {
             picture: "#",
             song: "Blinding Sun",
-            preview "",
         },
 
         hole: {
             picture: "#",
             song: "Samantha",
-            preview "",
         },
 
         candlebox: {
             picture: "#",
             song: "Far Behind",
-            preview "",
         },
 
         bush: {
             picture: "#",
             song: "Glycerine",
-            preview "",
         },
 
         pixies: {
             picture: "#",
             song: "Debaser",
-            preview "",
         },
 
         audioslave: {
             picture: "#",
             song: "Cochise",
-            preview "",
         },
 
         toadies: {
             picture: "#",
             song: "Tyler",
-            preview "",
         }
     },
 
